@@ -2,13 +2,16 @@
 ## Eclipse
 #################
 
+images/
+.idea/
+*.txt
+*.gitignore
+
 *.pydevproject
 .project
 .metadata
 bin/
 tmp/
-images
-.idea
 *.tmp
 *.bak
 *.swp
